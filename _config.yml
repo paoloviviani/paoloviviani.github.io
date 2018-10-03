@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Paolo Viviani"
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Reasearch Engineer"
   location         : "Torino"
   employer         :
