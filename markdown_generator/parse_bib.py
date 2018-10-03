@@ -99,7 +99,8 @@ if __name__ == "__main__":
     
     bib_database = bibtexparser.loads(bibtex_str)
     for entry in bib_database.entries:
-        filenm='../_publications/'+str(entry['ID'])+'.md'
+        entryID = str(entry['ID']).replace(':','_')
+        filenm='../_publications/'+entryID+'.md'
         
         # If the same publication exists, then skip the creation. I customize the .md files later, so I don't want them overwritten. Only new publications are created.
         if os.path.isfile(filenm):
@@ -109,7 +110,7 @@ if __name__ == "__main__":
                 the_file.write('---\n')
                 the_file.write('title: "'+supetrim(entry['title'])+'"\n')
                 the_file.write('collection: "'+"publications"+'"\n')
-                the_file.write('permalink: "'+"/publication/"+str(entry['ID'])+'"\n')
+                the_file.write('permalink: "'+"/publication/"+entryID+'"\n')
 
                 #print('Parsing ' + entry['ID'])
                 
