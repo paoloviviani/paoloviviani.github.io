@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Research Engineer at Noesis Solutions NV and PhD candidate in computer science at University of Turin. My main research topics are High-Performance Computing and systems for Artificial Intelligence and Machine Learning.
+PhD in computer science. Currently research Engineer at Noesis Solutions NV. My main research topics are High-Performance Computing and systems for Artificial Intelligence and Machine Learning.
 I'm also interested in container and cloud technologies for HPC.
 
 Also, I'm an avid photographer.
