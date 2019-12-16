@@ -35,18 +35,17 @@ Research Interests
 
 Skills
 ======
-***Parallel Computing***
-***GPU Computing***
-***Cloud technologies***
-***Machine Learning***
+***Parallel Computing***  
+***GPU Computing***  
+***Cloud technologies***  
+***Machine Learning***  
 
 ***Programming***
 * C++
 * Python
 * MPI/OpenMP and other tools
 * CUDA
-* Git
-
+* Git  
 You won't find any Java here, please desist.
 
 ***Tools***
@@ -57,8 +56,7 @@ You won't find any Java here, please desist.
 * Numerical Libraries
 * Linux OS
 * Openstack
-* Docker
-  
+* Docker  
 CISCO CCNA course completed in 2008.
 
 ***Soft***
