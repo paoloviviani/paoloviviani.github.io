@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[***Click here for PDF Resume***](/files/cv.pdf)
+[***Click here for full PDF Resume***](/files/cv.pdf)
 
 Education
 ======
@@ -45,7 +45,8 @@ Skills
 * Python
 * MPI/OpenMP and other tools
 * CUDA
-* Git  
+* Git
+
 You won't find any Java here, please desist.
 
 ***Tools***
@@ -56,7 +57,8 @@ You won't find any Java here, please desist.
 * Numerical Libraries
 * Linux OS
 * Openstack
-* Docker  
+* Docker
+
 CISCO CCNA course completed in 2008.
 
 ***Soft***
