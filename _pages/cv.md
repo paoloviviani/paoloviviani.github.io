@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Classic PDF Resume](../_files/cv.pdf)
+[Classic PDF Resume](/files/cv.pdf)
 
 Education
 ======
