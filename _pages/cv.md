@@ -35,12 +35,12 @@ Research Interests
 
 Skills
 ======
-###Parallel Computing
-###GPU Computing
-###Cloud technologies
-###Machine Learning
+### Parallel Computing
+### GPU Computing
+### Cloud technologies
+### Machine Learning
 
-###Programming
+### Programming
 * C++
 * Python
 * MPI/OpenMP and other tools
@@ -49,7 +49,7 @@ Skills
 
 You won't find any Java here, please desist.
 
-###Tools
+### Tools
 * MxNet
 * Keras
 * Apache Spark
@@ -61,7 +61,7 @@ You won't find any Java here, please desist.
   
 CISCO CCNA course completed in 2008.
 
-###Soft
+### Soft
 * Presentations
 * Communication of results
 * Factorization of problems
