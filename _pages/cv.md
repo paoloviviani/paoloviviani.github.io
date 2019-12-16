@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Classic PDF Resume](/files/cv.pdf)
+[***Click here for PDF Resume***](/files/cv.pdf)
 
 Education
 ======
@@ -29,13 +29,42 @@ Work experience
   
 Research Interests
 ======
-* Currently signed in to 43 different slack teams
+* High Performance Computing
+* Systems for Machine Learning
+* Containers and Cloud Deployment
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Parallel Computing
+  * GPU Computing
+  * Cloud technologies
+  * Machine Learning
+
+\divider
+
+* Programming
+  * C++
+  * Python
+  * MPI/OpenMP and other tools
+  * CUDA
+  * Git
+You won't find any Java here, please desist.
+
+
+* Tools
+  * MxNet
+  * Keras
+  * Apache Spark
+  * Python Deployment
+  * Numerical Libraries
+  * Linux OS
+  * Openstack
+  * Docker
+CISCO CCNA course completed in 2008.
+
+* Soft
+  * Presentations
+  * Communication of results
+  * Factorization of problems
+  * Time management
+  * Workarounds
