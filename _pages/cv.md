@@ -40,14 +40,13 @@ Skills
   * Cloud technologies
   * Machine Learning
 
-\divider
-
 * Programming
   * C++
   * Python
   * MPI/OpenMP and other tools
   * CUDA
   * Git
+  
 You won't find any Java here, please desist.
 
 
@@ -60,6 +59,7 @@ You won't find any Java here, please desist.
   * Linux OS
   * Openstack
   * Docker
+  
 CISCO CCNA course completed in 2008.
 
 * Soft
