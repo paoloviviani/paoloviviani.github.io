@@ -35,6 +35,9 @@ Research Interests
 
 Skills
 ======
+|aaa|aaa|aaa|
+|bbb|bbb|bbb|
+
 ***Parallel Computing***  
 ***GPU Computing***  
 ***Cloud technologies***  
