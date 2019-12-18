@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[***Click here for full PDF Resume***](/files/cv.pdf)
+[***Full PDF version***](/files/cv.pdf)
 
 Education
 ======
@@ -35,10 +35,6 @@ Research Interests
 
 Skills
 ======
-|aaa|aaa|aaa|
-|---|---|---|
-|bbb|bbb|bbb|
-
 ***Parallel Computing***  
 ***GPU Computing***  
 ***Cloud technologies***  
