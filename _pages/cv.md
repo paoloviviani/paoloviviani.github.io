@@ -26,6 +26,12 @@ Work experience
   * Supervision of one internship.
   * Re-designed internal source code management workflow.
   * Technical contact for the following research projects. Including presentation to European Commission reviewers.
+    * ITEA2 MACH
+    * FP7 CloudFlow
+    * H2020 Fortissimo2
+    * ICON BoSS (Flemish)
+    * ICON VaProFam (Flemish)
+    * ICON DC-CDS (Flemish)
   
 Research Interests
 ======
