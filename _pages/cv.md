@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* April 2015 - ongoing: Research Engineer at [Noesis Solutions](https://www.noesissolutions.com/)
+* April 2015 - ongoing: Research Engineer at [***Noesis Solutions***](https://www.noesissolutions.com/)
   * Development of machine learning modelling methodologies for engineering.
   * Re-definition of the internal development and deployment stack (C++, Python) for scientific computations, with focus on performance and maintainability.
   * Cloud and container technologies exploitation.
