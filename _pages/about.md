@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-PhD in computer science. Currently Research Engineer at Noesis Solutions NV. My main research topics are High-Performance Computing and systems for Machine Learning/Artificial Intelligence.
-I'm also interested in container and cloud technologies for HPC.
+Theoretical physicist turned computer scientist. Currently Research Engineer at Noesis Solutions NV. My main interests are High-Performance Computing and systems for Machine Learning/AI. I’m also interested in containers and cloud technologies for HPC.
 
 Also, I'm an avid photographer.
