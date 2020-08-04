@@ -10,7 +10,7 @@ main:
 #    url: /teaching/  
 
   - title: "CV"
-    url: https://github.com/paoloviviani/resume/raw/master/viviani_cv.pdf
+    url: /cv/
     
  # - title: "Blog Posts"
  #   url: /year-archive/
