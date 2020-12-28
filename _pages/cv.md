@@ -39,12 +39,16 @@ Torino, IT
 
 ### Noesis Solutions - Reasearch Engineer (2015 - 2021)
 Novara, IT
-- \textbf{Machine learning modelling methodologies for engineering applications}.
+- Machine learning modelling methodologies for engineering applications.
 - Development of numerical code and software stack.
 - Supervisor of one internship.
 - Re-designed company-wide source code management workflow.
 - Technical contact for funded research projects.
 
-[See Funded research projects](/projects/)
+[**See Funded research projects**](/projects/)
 
 ----
+
+## Skills
+
+- aaa <p>&#x25CF<\p>
