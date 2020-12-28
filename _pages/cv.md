@@ -45,4 +45,6 @@ Novara, IT
 - Re-designed company-wide source code management workflow.
 - Technical contact for funded research projects.
 
+[See Funded research projects](/projects/)
+
 ----
