@@ -50,5 +50,23 @@ Novara, IT
 ----
 
 ## Skills
+| Skill | Level |
+| ----- | ----- |
+| Parallel Computing | ⬤⬤⬤⬤⬤ |
+| GPU Computing | ⬤⬤⬤ |
+| Cloud technologies | ⬤⬤⬤ |
+| Machine Learning | ⬤⬤⬤⬤ |
+| Funded research | ⬤⬤⬤⬤ |
+| **Programming** | |
+| C++ | ⬤⬤⬤⬤⬤ |
+| Python | ⬤⬤⬤⬤ |
+| CUDA | ⬤⬤ |
+| Fortran | ⬤⬤⬤ |
+| Git | ⬤⬤⬤⬤⬤ |
+| **Soft** | |
+| Presentations | ⬤⬤⬤⬤ |
+| Communication of results | ⬤⬤⬤⬤⬤ |
+| Formalization of requirements | ⬤⬤⬤⬤ |
+| Factorization of problems | ⬤⬤⬤⬤⬤5 |
 
-- aaa <p>&#x25CF</p>
+### Tools
