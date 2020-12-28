@@ -67,6 +67,16 @@ Novara, IT
 | Presentations | ⬤⬤⬤⬤ |
 | Communication of results | ⬤⬤⬤⬤⬤ |
 | Formalization of requirements | ⬤⬤⬤⬤ |
-| Factorization of problems | ⬤⬤⬤⬤⬤5 |
+| Factorization of problems | ⬤⬤⬤⬤⬤ |
 
-### Tools
+| Tools |     |
+| --- | --- |
+ |  Keras |  MxNet | 
+ | Pandas | BLAS/Lapack |
+ |  Apache Spark |  Openstack |
+ |  PBS/Slurm |  Docker |
+ |  Gitlab CI |  Linux |
+ |  IP Networking |  Latex |
+ |  Mathematica |
+
+----
