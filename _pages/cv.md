@@ -51,4 +51,4 @@ Novara, IT
 
 ## Skills
 
-- aaa <p>&#x25CF<\p>
+- aaa <p>&#x25CF</p>
