@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 > [**Stylish PDF version here.**](https://paoloviviani.github.io/resume/viviani_cv.pdf)
+
 ## Research interests
 
 - **High-perfomance Computing**
