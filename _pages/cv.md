@@ -88,9 +88,9 @@ Novara, IT
 See [**Publications**](/publications/).
 
 -  Four PhD schools attended
--  Program Committee member, \textit{Euromicro International Conference on Paralle, Distributed, and Network-based Processing (PDP)} for 2018 (also session chair), 2019 and 2020.
--  Program Committee member, \textit{Parallel Numerical Methods and Libraries for Heterogeneous Multi/Manycores (PDP2018 and PDP2019)}
--  Program Committee member, \textit{Artifact Evaluation, Euro-Par 2018}
--  Program Committee member, \textit{16th IEEE International Conference on Scalable Computing and Communications (ScalCom 2016)
+-  Program Committee member, *Euromicro International Conference on Paralle, Distributed, and Network-based Processing (PDP)* for 2018 (also session chair), 2019 and 2020.
+-  Program Committee member, *Parallel Numerical Methods and Libraries for Heterogeneous Multi/Manycores (PDP2018 and PDP2019)*
+-  Program Committee member, *Artifact Evaluation, Euro-Par 2018*
+-  Program Committee member, *16th IEEE International Conference on Scalable Computing and Communications (ScalCom 2016)
 
 ----
