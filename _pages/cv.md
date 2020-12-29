@@ -47,6 +47,8 @@ Novara, IT
 ----
 
 ## Skills
+
+
 | Skill |       |
 | ----- | ----- |
 | Parallel Computing | ⬤⬤⬤⬤⬤ |
