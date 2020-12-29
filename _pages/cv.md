@@ -67,6 +67,10 @@ Novara, IT
 | Communication of results | ⬤⬤⬤⬤⬤ |
 | Formalization of requirements | ⬤⬤⬤⬤ |
 | Factorization of problems | ⬤⬤⬤⬤⬤ |
+| **Languages** | |
+| Italian | ⬤⬤⬤⬤⬤ |
+| English | ⬤⬤⬤⬤⬤ |
+| French | ⬤⬤ |
 
 | Tools |       |
 | ----- | ----- |
