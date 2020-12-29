@@ -65,7 +65,9 @@ Novara, IT
 | Communication of results | ⬤⬤⬤⬤⬤ |
 | Formalization of requirements | ⬤⬤⬤⬤ |
 | Factorization of problems | ⬤⬤⬤⬤⬤ |
-| **Tools** |       |
+
+| Tools |       |
+| ----- | ----- |
 |  Keras |  MxNet | 
 | Pandas | BLAS/Lapack |
 |  Apache Spark |  Openstack |
