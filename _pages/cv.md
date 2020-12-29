@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-> [**Stylish PDF version here.**](https://paoloviviani.github.io/resume/viviani_cv.pdf)
+> [**Fancy PDF version here.**](https://paoloviviani.github.io/resume/viviani_cv.pdf)
 
 ## Research interests
 
