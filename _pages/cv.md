@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -34,6 +34,7 @@ Torino, IT
 - HPC and big data analytics.
 - Quantum computing.
 - Funded research projects.
+
 ### Noesis Solutions - Reasearch Engineer (2015 - 2021)
 Novara, IT
 - Machine learning modelling methodologies for engineering applications.
@@ -52,25 +53,25 @@ Novara, IT
 | Skill | Level |
 | ----- | ----- |
 | Parallel Computing | ⬤⬤⬤⬤⬤ |
-| GPU Computing | ⬤⬤⬤ |
-| Cloud technologies | ⬤⬤⬤ |
-| Machine Learning | ⬤⬤⬤⬤ |
-| Funded research | ⬤⬤⬤⬤ |
+| GPU Computing | ⬤⬤⬤◯◯ |
+| Cloud technologies | ⬤⬤⬤◯◯ |
+| Machine Learning | ⬤⬤⬤⬤◯ |
+| Funded research | ⬤⬤⬤⬤◯ |
 | **Programming** | |
 | C++ | ⬤⬤⬤⬤⬤ |
-| Python | ⬤⬤⬤⬤ |
-| CUDA | ⬤⬤ |
-| Fortran | ⬤⬤⬤ |
+| Python | ⬤⬤⬤⬤◯ |
+| CUDA | ⬤⬤◯◯◯ |
+| Fortran | ⬤⬤⬤◯◯ |
 | Git | ⬤⬤⬤⬤⬤ |
 | **Soft** | |
-| Presentations | ⬤⬤⬤⬤ |
+| Presentations | ⬤⬤⬤⬤◯ |
 | Communication of results | ⬤⬤⬤⬤⬤ |
-| Formalization of requirements | ⬤⬤⬤⬤ |
+| Formalization of requirements | ⬤⬤⬤⬤◯ |
 | Factorization of problems | ⬤⬤⬤⬤⬤ |
 | **Languages** | |
-| Italian | ⬤⬤⬤⬤⬤ |
-| English | ⬤⬤⬤⬤⬤ |
-| French | ⬤⬤ |
+| **Italian** | ⬤⬤⬤⬤⬤ |
+| **English** | ⬤⬤⬤⬤⬤ |
+| **French** | ⬤⬤◯◯◯ |
 
 | Tools |       |
 | ----- | ----- |
@@ -81,5 +82,15 @@ Novara, IT
 |  Gitlab CI |  Linux |
 |  IP Networking |  Latex |
 |  Mathematica |
+
+----
+## Academic
+See [**Publications**](/publications/).
+
+-  Four PhD schools attended
+-  Program Committee member, \textit{Euromicro International Conference on Paralle, Distributed, and Network-based Processing (PDP)} for 2018 (also session chair), 2019 and 2020.
+-  Program Committee member, \textit{Parallel Numerical Methods and Libraries for Heterogeneous Multi/Manycores (PDP2018 and PDP2019)}
+-  Program Committee member, \textit{Artifact Evaluation, Euro-Par 2018}
+-  Program Committee member, \textit{16th IEEE International Conference on Scalable Computing and Communications (ScalCom 2016)
 
 ----
