@@ -50,7 +50,7 @@ Novara, IT
 ----
 
 ## Skills
-| Skill | Level |
+| Skill |       |
 | ----- | ----- |
 | Parallel Computing | ⬤⬤⬤⬤⬤ |
 | GPU Computing | ⬤⬤⬤ |
@@ -69,14 +69,14 @@ Novara, IT
 | Formalization of requirements | ⬤⬤⬤⬤ |
 | Factorization of problems | ⬤⬤⬤⬤⬤ |
 
-| Tools |     |
-| --- | --- |
- |  Keras |  MxNet | 
- | Pandas | BLAS/Lapack |
- |  Apache Spark |  Openstack |
- |  PBS/Slurm |  Docker |
- |  Gitlab CI |  Linux |
- |  IP Networking |  Latex |
- |  Mathematica |
+| Tools |       |
+| ----- | ----- |
+|  Keras |  MxNet | 
+| Pandas | BLAS/Lapack |
+|  Apache Spark |  Openstack |
+|  PBS/Slurm |  Docker |
+|  Gitlab CI |  Linux |
+|  IP Networking |  Latex |
+|  Mathematica |
 
 ----
