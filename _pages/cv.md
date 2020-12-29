@@ -49,7 +49,7 @@ Novara, IT
 ## Skills
 
 
-| Skill |       |
+| Skill | Level |
 | ----- | ----- |
 | Parallel Computing | ⬤⬤⬤⬤⬤ |
 | GPU Computing | ⬤⬤⬤ |
