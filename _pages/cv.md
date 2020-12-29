@@ -29,14 +29,11 @@ Supervisor: Marco Aldinucci. Funded by Noesis Solutions.
 
 ----
 ## Experience
-
 ### LINKS Foundation - Senior Reasearcher (2021 - present)
 Torino, IT
 - HPC and big data analytics.
 - Quantum computing.
 - Funded research projects.
-
-
 ### Noesis Solutions - Reasearch Engineer (2015 - 2021)
 Novara, IT
 - Machine learning modelling methodologies for engineering applications.
@@ -69,6 +66,24 @@ Novara, IT
 | Formalization of requirements | ⬤⬤⬤⬤ |
 | Factorization of problems | ⬤⬤⬤⬤⬤ |
 
+| Skill |       |
+| ----- | ----- |
+| Parallel Computing | ⬤⬤⬤⬤⬤ |
+| GPU Computing | ⬤⬤⬤ |
+| Cloud technologies | ⬤⬤⬤ |
+| Machine Learning | ⬤⬤⬤⬤ |
+| Funded research | ⬤⬤⬤⬤ |
+| **Programming** | |
+| C++ | ⬤⬤⬤⬤⬤ |
+| Python | ⬤⬤⬤⬤ |
+| CUDA | ⬤⬤ |
+| Fortran | ⬤⬤⬤ |
+| Git | ⬤⬤⬤⬤⬤ |
+| **Soft** | |
+| Presentations | ⬤⬤⬤⬤ |
+| Communication of results | ⬤⬤⬤⬤⬤ |
+| Formalization of requirements | ⬤⬤⬤⬤ |
+| Factorization of problems | ⬤⬤⬤⬤⬤ |
 | Tools |       |
 | ----- | ----- |
 |  Keras |  MxNet | 
