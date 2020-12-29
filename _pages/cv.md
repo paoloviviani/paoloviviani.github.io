@@ -57,13 +57,13 @@ Novara, IT
 | Cloud technologies | ⬤⬤⬤ |
 | Machine Learning | ⬤⬤⬤⬤ |
 | Funded research | ⬤⬤⬤⬤ |
-| **Programming** | a |
+| **Programming** | |
 | C++ | ⬤⬤⬤⬤⬤ |
 | Python | ⬤⬤⬤⬤ |
 | CUDA | ⬤⬤ |
 | Fortran | ⬤⬤⬤ |
 | Git | ⬤⬤⬤⬤⬤ |
-| **Soft** | a |
+| **Soft** | |
 | Presentations | ⬤⬤⬤⬤ |
 | Communication of results | ⬤⬤⬤⬤⬤ |
 | Formalization of requirements | ⬤⬤⬤⬤ |
