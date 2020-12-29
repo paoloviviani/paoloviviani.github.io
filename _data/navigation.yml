@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
 #  - title: "Talks"
 #    url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/  
 
-  - title: "CV"
+  - title: "Resume"
     url: https://paoloviviani.github.io/resume/viviani_cv.pdf
-    
+
+  - title: "Publications"
+    url: /publications/
+
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "Portfolio"
+  - title: "Photographic Portfolio"
     url: https://paoloph.myportfolio.com/
     
 #  - title: "Guide"

@@ -65,27 +65,7 @@ Novara, IT
 | Communication of results | ⬤⬤⬤⬤⬤ |
 | Formalization of requirements | ⬤⬤⬤⬤ |
 | Factorization of problems | ⬤⬤⬤⬤⬤ |
-
-| Skill |       |
-| ----- | ----- |
-| Parallel Computing | ⬤⬤⬤⬤⬤ |
-| GPU Computing | ⬤⬤⬤ |
-| Cloud technologies | ⬤⬤⬤ |
-| Machine Learning | ⬤⬤⬤⬤ |
-| Funded research | ⬤⬤⬤⬤ |
-| **Programming** | |
-| C++ | ⬤⬤⬤⬤⬤ |
-| Python | ⬤⬤⬤⬤ |
-| CUDA | ⬤⬤ |
-| Fortran | ⬤⬤⬤ |
-| Git | ⬤⬤⬤⬤⬤ |
-| **Soft** | |
-| Presentations | ⬤⬤⬤⬤ |
-| Communication of results | ⬤⬤⬤⬤⬤ |
-| Formalization of requirements | ⬤⬤⬤⬤ |
-| Factorization of problems | ⬤⬤⬤⬤⬤ |
-| Tools |       |
-| ----- | ----- |
+| **Tools** |       |
 |  Keras |  MxNet | 
 | Pandas | BLAS/Lapack |
 |  Apache Spark |  Openstack |
