@@ -2,6 +2,8 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
+header:
+  og_image: screen.png
 author_profile: true
 redirect_from: 
   - /about/
