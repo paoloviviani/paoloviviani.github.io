@@ -2,11 +2,11 @@
 permalink: /
 title: "About"
 header:
-  overlay_color: "#333"
+  overlay_image: "wood.png"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.htmls
+  - /about.html
 ---
 
 Theoretical physicist turned computer scientist. Currently Senior Researcher at [LINKS Foundation](https://linksfoundation.com/en/).
