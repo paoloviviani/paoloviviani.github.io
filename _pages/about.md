@@ -3,6 +3,7 @@ permalink: /
 title: "About"
 header:
   overlay_image: "wood.png"
+  og_image: "wood.png"
 author_profile: true
 redirect_from: 
   - /about/
