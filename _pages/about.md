@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+header:
+  overlay_color: "#333"
 author_profile: true
 redirect_from: 
   - /about/
