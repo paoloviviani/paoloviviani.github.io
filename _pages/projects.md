@@ -34,3 +34,8 @@ Value driven concept design for product families.
 **FlandersMake-ICON project (2019 - 2021)**
 
 Designer-centric computational design synthesis.
+
+## [ACROSS](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/eurohpc-02-2019;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501,31094502,31094503;programCode=H2020;programDivisionCode=null;focusAreaCode=null;crossCuttingPriorityCode=null;callCode=H2020-JTI-EUROHPC-2019-1;sortQuery=submissionStatus;orderBy=asc;onlyTenders=false;topicListKey=callTopicSearchTableState)
+**EuroHPC-02-2019**
+
+HPC, Big-Data, Artificial Intelligence Cross Stack Platform Towards Exascale
