@@ -5,10 +5,15 @@ permalink: /projects/
 author_profile: true
 ---
 
-## [MACH](https://itea3.org/project/mach.html)
-**ITEA2 project (2015 - 2016)**
+## [B-CRATOS](https://cordis.europa.eu/project/id/965044/it)
+**H2020-EU - FET Open (2021 - ongoing)**
 
-MAssive Calculations on Hybrid systems. The goal of the project is to develop a DSeL and a computation framework that allows to access hybrid hardware acceleration without specific expertise.
+Merging novel wireless communication, neuroscience, bionics, Artificial Intelligence and sensing to create for the first time a battery-free high-speed wireless in-body communication platform for Brain-Machine-Body connectivity.
+
+## [ACROSS](https://cordis.europa.eu/project/id/955648)
+**EuroHPC-02-2019 (2021 - ongoing)**
+
+HPC, Big-Data, Artificial Intelligence Cross Stack Platform Towards Exascale
 
 ## [Fortissimo 2](https://www.fortissimo-project.eu/)
 **H2020-FoF project (2016 - 2018)**
@@ -19,6 +24,11 @@ FF2 is a collaborative project that will enable European SMEs to be more competi
 **FP7-I4MS project (2016 - 2017)**
 
 Cloudflow will enable the remote use of computational services distributed on the cloud, seamlessly integrating these within established engineering design workflows and standards.
+
+## [MACH](https://itea3.org/project/mach.html)
+**ITEA2 project (2015 - 2016)**
+
+MAssive Calculations on Hybrid systems. The goal of the project is to develop a DSeL and a computation framework that allows to access hybrid hardware acceleration without specific expertise.
 
 ## [BoSS](https://www.imec-int.com/en/what-we-offer/research-portfolio/boss)
 **IMEC-ICON project (2018 - 2019)**
@@ -35,7 +45,3 @@ Value driven concept design for product families.
 
 Designer-centric computational design synthesis.
 
-## [ACROSS](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/eurohpc-02-2019;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501,31094502,31094503;programCode=H2020;programDivisionCode=null;focusAreaCode=null;crossCuttingPriorityCode=null;callCode=H2020-JTI-EUROHPC-2019-1;sortQuery=submissionStatus;orderBy=asc;onlyTenders=false;topicListKey=callTopicSearchTableState)
-**EuroHPC-02-2019**
-
-HPC, Big-Data, Artificial Intelligence Cross Stack Platform Towards Exascale
