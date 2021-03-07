@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## [B-CRATOS](https://cordis.europa.eu/project/id/965044/it)
+## [B-CRATOS](https://cordis.europa.eu/project/id/965044)
 **H2020-EU - FET Open (2021 - ongoing)**  
 Merging novel wireless communication, neuroscience, bionics, Artificial Intelligence and sensing to create for the first time a battery-free high-speed wireless in-body communication platform for Brain-Machine-Body connectivity.
 
