@@ -55,7 +55,7 @@ Novara, IT
 | GPU Computing | ⬤⬤⬤ |
 | Cloud technologies | ⬤⬤⬤ |
 | Machine Learning | ⬤⬤⬤⬤ |
-| Funded research | ⬤⬤⬤⬤ |
+| Research project management | ⬤⬤⬤⬤ |
 | Quantum computing | ⬤⬤ |
 | **Programming** | |
 | C++ | ⬤⬤⬤⬤⬤ |
