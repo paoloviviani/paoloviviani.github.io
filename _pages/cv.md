@@ -17,15 +17,15 @@ redirect_from:
 
 ----
 ## Education 
+### Ph.D. in Computer Science (2015-2019)
+Università degli studi di Torino.  
+Thesis: *Deep Learning at Scale with Nearest Neighbours Communications*.  
+Supervisor: Marco Aldinucci. Funded by Noesis Solutions.
 ### Master's Degree in Theoretical physics (2015)
 Università degli studi di Torino, 104/110.  
 Member of [Collegio Universitario "R.Einaudi"](https://www.collegioeinaudi.it/site/index.php), Torino.
 
 [Scholarship winner](https://web.archive.org/web/20200528081355/https://www.sif.it/attivita/lauree_scientifiche/vincitori2008): "Piano Lauree Scientifiche 2008", granted by Società Italiana di Fisica.
-### Ph.D. in Computer Science (2015-2019)
-Università degli studi di Torino.  
-Thesis: *Deep Learning at Scale with Nearest Neighbours Communications*.  
-Supervisor: Marco Aldinucci. Funded by Noesis Solutions.
 
 ----
 ## Experience
@@ -43,12 +43,11 @@ Novara, IT
 - Re-designed company-wide source code management workflow.
 - Technical contact for funded research projects.
 
-[**See Funded research projects**](/projects/)
+[**See all funded research projects**](/projects/)
 
 ----
 
 ## Skills
-
 
 | Skill | Level |
 | ----- | ----- |
@@ -57,6 +56,7 @@ Novara, IT
 | Cloud technologies | ⬤⬤⬤ |
 | Machine Learning | ⬤⬤⬤⬤ |
 | Funded research | ⬤⬤⬤⬤ |
+| Quantum computing | ⬤⬤ |
 | **Programming** | |
 | C++ | ⬤⬤⬤⬤⬤ |
 | Python | ⬤⬤⬤⬤ |
@@ -81,7 +81,7 @@ Novara, IT
 |  PBS/Slurm |  Docker |
 |  Gitlab CI |  Linux |
 |  IP Networking |  Latex |
-|  Mathematica |
+|  Mathematica | Qiskit |
 
 ----
 ## Academic
