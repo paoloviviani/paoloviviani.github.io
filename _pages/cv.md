@@ -29,14 +29,14 @@ Member of [Collegio Universitario "R.Einaudi"](https://www.collegioeinaudi.it/si
 
 ----
 ## Experience
-### LINKS Foundation - Senior Reasearcher (2021 - present)
-Torino, IT
+### LINKS Foundation, Torino, IT -- (2021 - present)
+**Senior Researcher, Advanced Computing and Applications**
 - HPC and big data analytics.
 - Quantum computing.
 - Funded research projects.
 
-### Noesis Solutions - Reasearch Engineer (2015 - 2021)
-Novara, IT
+### Noesis Solutions, Novara, IT -- (2015 - 2021)
+**Research Engineer**
 - Machine learning modelling methodologies for engineering applications.
 - Development of numerical code and software stack.
 - Supervisor of one internship.
