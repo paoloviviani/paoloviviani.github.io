@@ -37,7 +37,7 @@ Member of [Collegio Universitario "R.Einaudi"](https://www.collegioeinaudi.it/si
 
 ### Noesis Solutions, Novara, IT -- (2015 - 2021)
 *Research Engineer*
-- Machine learning modelling methodologies for engineering applications.
+- Machine learning methodologies for engineering modelling and design exploration.
 - Development of numerical code and software stack.
 - Supervisor of one internship.
 - Re-designed company-wide source code management workflow.
