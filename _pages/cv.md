@@ -23,8 +23,8 @@ Thesis: *Deep Learning at Scale with Nearest Neighbours Communications*.
 Supervisor: Marco Aldinucci. Funded by Noesis Solutions.
 ### Master's Degree in Theoretical physics (2015)
 Università degli studi di Torino, 104/110.  
-Member of [Collegio Universitario "R.Einaudi"](https://www.collegioeinaudi.it/site/index.php), Torino.
 
+Member of [Collegio Universitario "R.Einaudi"](https://www.collegioeinaudi.it/site/index.php), Torino.
 [Scholarship winner](https://web.archive.org/web/20200528081355/https://www.sif.it/attivita/lauree_scientifiche/vincitori2008): "Piano Lauree Scientifiche 2008", granted by Società Italiana di Fisica.
 
 ----
