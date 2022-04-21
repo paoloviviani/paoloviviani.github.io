@@ -4,7 +4,8 @@ permalink: /talks/
 title: talks and courses
 nav: true
 ---
-
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+https://events.prace-ri.eu/event/1327/
+### [Graph Coloring with Neutral Atoms](https://alpha.di.unito.it/seminars/)
+**February 17th, 2022 -- 18th Advanced School on Parallel Computing, CINECA**
+### [Quantum Computing: A hype-avoiding introduction](https://alpha.di.unito.it/seminars/)
+**June 7th, 2021 -- University of Torino, Parallel Computing Seminars**
