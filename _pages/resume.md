@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /resume/
-title: talks and courses
-description: List of talks and courses held.
+title: resume
+description: CV
 nav: true
 ---
 
