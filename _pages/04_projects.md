@@ -4,6 +4,7 @@ title: research projects
 permalink: /projects/
 description: List of research project I have been involved into
 nav: true
+order: 4
 display_categories: [work, fun]
 horizontal: false
 ---

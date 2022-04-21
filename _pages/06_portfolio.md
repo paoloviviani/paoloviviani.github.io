@@ -4,6 +4,7 @@ title: portfolio
 permalink: /portfolio/
 description: Photo portfolio
 nav: true
+order: 6
 redirect_to: http://paoloph.myportfolio.com
 ---
 

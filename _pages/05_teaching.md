@@ -3,6 +3,7 @@ layout: page
 permalink: /talks/
 title: talks and courses
 nav: true
+order: 5
 ---
 ### [Graph Coloring with Neutral Atoms](https://events.prace-ri.eu/event/1327/)
 **February 17th, 2022 -- 18th Advanced School on Parallel Computing, CINECA**
