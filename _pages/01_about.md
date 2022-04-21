@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+order: 1
 subtitle: Computer Science PhD
 
 profile:
