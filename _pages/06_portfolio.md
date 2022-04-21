@@ -8,4 +8,4 @@ order: 6
 redirect_to: http://paoloph.myportfolio.com
 ---
 
-<!-- <meta http-equiv="refresh" content="0; URL='http://paoloph.myportfolio.com'" /> -->
+<meta http-equiv="refresh" content="0; URL='http://paoloph.myportfolio.com'" />

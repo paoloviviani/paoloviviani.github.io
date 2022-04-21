@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: redirect
 permalink: /cv/
 title: resume
 order: 2
