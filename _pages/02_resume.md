@@ -50,39 +50,39 @@ Member of [Collegio Universitario "R.Einaudi"](https://www.collegioeinaudi.it/si
 
 ## Skills
 
-| Skill | Level |
-| ----- | ----- |
-| Parallel Computing | ⬤⬤⬤⬤⬤ |
-| GPU Computing | ⬤⬤⬤ |
-| Cloud technologies | ⬤⬤⬤ |
-| Machine Learning | ⬤⬤⬤⬤ |
-| Research project management | ⬤⬤⬤⬤ |
-| Quantum computing | ⬤⬤ |
-| **Programming** | |
-| C++ | ⬤⬤⬤⬤⬤ |
-| Python | ⬤⬤⬤⬤ |
-| CUDA | ⬤⬤ |
-| Fortran | ⬤⬤⬤ |
-| Git | ⬤⬤⬤⬤⬤ |
-| **Soft** | |
-| Presentations | ⬤⬤⬤⬤ |
-| Communication of results | ⬤⬤⬤⬤⬤ |
-| Formalization of requirements | ⬤⬤⬤⬤ |
-| Factorization of problems | ⬤⬤⬤⬤⬤ |
-| **Languages** | |
-| **Italian** | ⬤⬤⬤⬤⬤ |
-| **English** | ⬤⬤⬤⬤⬤ |
-| **French** | ⬤⬤ |
+| Skill | | Level |
+| ----- | | ----- |
+| Parallel Computing | | ⬤⬤⬤⬤⬤ |
+| GPU Computing | | ⬤⬤⬤ |
+| Cloud technologies | | ⬤⬤⬤ |
+| Machine Learning | | ⬤⬤⬤⬤ |
+| Research project management | | ⬤⬤⬤⬤ |
+| Quantum computing | | ⬤⬤ |
+| **Programming** | | |
+| C++ | | ⬤⬤⬤⬤⬤ |
+| Python | | ⬤⬤⬤⬤ |
+| CUDA | | ⬤⬤ |
+| Fortran | | ⬤⬤⬤ |
+| Git | | ⬤⬤⬤⬤⬤ |
+| **Soft** | | |
+| Presentations | | ⬤⬤⬤⬤ |
+| Communication of results | | ⬤⬤⬤⬤⬤ |
+| Formalization of requirements | | ⬤⬤⬤⬤ |
+| Factorization of problems | | ⬤⬤⬤⬤⬤ |
+| **Languages** | | |
+| **Italian** | | ⬤⬤⬤⬤⬤ |
+| **English** | |⬤⬤⬤⬤⬤ |
+| **French** | | ⬤⬤ |
 
-| Tools |       |
-| ----- | ----- |
-|  Keras |  MxNet | 
-| Pandas | BLAS/Lapack |
-|  Apache Spark |  Openstack |
-|  PBS/Slurm |  Docker |
-|  Gitlab CI |  Linux |
-|  IP Networking |  Latex |
-|  Mathematica | Qiskit |
+| Tools | |       |
+| ----- | | ----- |
+|  Keras | |  MxNet | 
+| Pandas | | BLAS/Lapack |
+|  Apache Spark | |  Openstack |
+|  PBS/Slurm | |  Docker |
+|  Gitlab CI | |  Linux |
+|  IP Networking | | Latex |
+|  Mathematica | | Qiskit |
 
 ----
 ## Academic
