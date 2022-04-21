@@ -3,13 +3,13 @@ layout: about
 title: about
 permalink: /
 order: 1
-subtitle: Computer Science PhD
+subtitle: 
 
 profile:
   align: right
   image: profile.jpg
   address: >
-    <p>Senior Researcher</p>
+    <p>Advanced Computing, Photonics and Electromagnetics group</p>
     <p>LINKS Foundation</p>
     <p>Torino, Italy</p>
 

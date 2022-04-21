@@ -7,7 +7,9 @@ nav: true
 redirect: https://paoloviviani.github.io/resume/viviani_cv.pdf
 ---
 
-<meta http-equiv="refresh" content="0; URL='https://paoloviviani.github.io/resume/viviani_cv.pdf'" />
+<!-- <image src="https://paoloviviani.github.io/resume/viviani_cv.pdf#page=1"/> -->
+
+<meta http-equiv="refresh" content="0; URL='https://paoloviviani.github.io/resume/viviani_cv.pdf?dl=0'" />
 
 <!-- 
 > [**Fancy PDF version here.**](https://paoloviviani.github.io/resume/viviani_cv.pdf)
