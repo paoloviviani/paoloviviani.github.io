@@ -2,7 +2,6 @@
 layout: page
 permalink: /talks/
 title: talks and courses
-description: List of talks and courses held.
 nav: true
 ---
 
