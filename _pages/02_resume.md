@@ -4,8 +4,9 @@ permalink: /cv/
 title: resume
 order: 2
 nav: true
+redirect: https://paoloviviani.github.io/resume/viviani_cv.pdf
 ---
-
+<!-- 
 > [**Fancy PDF version here.**](https://paoloviviani.github.io/resume/viviani_cv.pdf)
 
 ## Research interests
@@ -94,4 +95,4 @@ See [**Publications**](/publications/).
 -  Program Committee member, *Artifact Evaluation, Euro-Par 2018*
 -  Program Committee member, *16th IEEE International Conference on Scalable Computing and Communications (ScalCom 2016)
 
-----
+---- -->
