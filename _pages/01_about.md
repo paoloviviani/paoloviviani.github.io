@@ -22,6 +22,4 @@ Theoretical physicist turned computer scientist. Currently Senior Researcher at 
 
 I'm interested in using supercomputers to solve scientific and engineering problems, like developing and training machine learning models at scale; to achieve this goal I've been often dealing with large-scale HPC machine (including few Top500 and a couple of top 10 machines). I'm also interested in developing algorithms to exploit the potential of near-term quantum computers, and to investigate their interactions with classical HPC.
 
-I have specific experience with numerical linear algebra libraries and their role in numerical software stacks (both C++ and Python), parallel training strate
-
 Also, I'm an avid photographer.

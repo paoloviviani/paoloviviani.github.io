@@ -1,15 +1,15 @@
 ---
-layout: redirect
+layout: page
 permalink: /cv/
 title: resume
 order: 2
 nav: true
-redirect: https://paoloviviani.github.io/resume/viviani_cv.pdf
 ---
-
-<!-- <image src="https://paoloviviani.github.io/resume/viviani_cv.pdf#page=1"/> -->
-
-<meta http-equiv="refresh" content="0; URL='https://paoloviviani.github.io/resume/viviani_cv.pdf?dl=0'" />
+[Download PDF](https://paoloviviani.github.io/resume/viviani_cv.pdf)
+<center>
+<image src="https://paoloviviani.github.io/resume/viviani_cv_1.pdf"/>
+<image src="https://paoloviviani.github.io/resume/viviani_cv_2.pdf"/>
+</center>
 
 <!-- 
 > [**Fancy PDF version here.**](https://paoloviviani.github.io/resume/viviani_cv.pdf)
