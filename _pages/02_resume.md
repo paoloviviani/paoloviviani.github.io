@@ -6,10 +6,9 @@ order: 2
 nav: true
 ---
 [Download PDF](https://paoloviviani.github.io/resume/viviani_cv.pdf)
-<center>
-<image src="https://paoloviviani.github.io/resume/viviani_cv_1.pdf"/>
-<image src="https://paoloviviani.github.io/resume/viviani_cv_2.pdf"/>
-</center>
+
+![Resume page 1](https://paoloviviani.github.io/resume/viviani_cv_1.png){: width="480" }
+![Resume page 2](https://paoloviviani.github.io/resume/viviani_cv_2.png){: width="480" }
 
 <!-- 
 > [**Fancy PDF version here.**](https://paoloviviani.github.io/resume/viviani_cv.pdf)
