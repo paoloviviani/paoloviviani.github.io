@@ -9,16 +9,16 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-## [B-CRATOS](https://cordis.europa.eu/project/id/965044)
+## [B-CRATOS](https://www.b-cratos.eu)
 **H2020-EU - FET Open (2021 - ongoing)**  
 Merging novel wireless communication, neuroscience, bionics, Artificial Intelligence and sensing to create for the first time a battery-free high-speed wireless in-body communication platform for Brain-Machine-Body connectivity.
 
-## [ACROSS](https://cordis.europa.eu/project/id/955648)
+## [ACROSS](https://www.acrossproject.eu)
 **EuroHPC-02-2019 (2021 - ongoing)**  
 The ACROSS project will co-design and develop an HPC, BD, and Artificial Intelligence (AI) convergent platform, supporting applications in the Aeronautics, Climate and Weather, and Energy domains.
 
 ## [Lexis](https://cordis.europa.eu/project/id/825532)
-**H2020-ICT-11 (2021 - ongoing)**  
+**H2020-ICT-11 (2021 - 2022)**  
 LEXIS (Large-scale EXecution for Industry & Society) project will build an advanced engineering platform at the confluence of HPC, Cloud and Big Data which will leverage large-scale geographically-distributed resources from existing HPC infrastructure, employ Big Data analytics solutions and augment them with Cloud services.
 
 ## [Fortissimo 2](https://www.fortissimo-project.eu/)
