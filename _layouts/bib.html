@@ -75,6 +75,8 @@
             {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
           {%- elsif entry.type == "inproceedings" -%}
             {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+          {%- elsif entry.type == "incollection" -%}
+            {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
           {%- else -%}
             {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
@@ -103,6 +105,9 @@
           {%- endif %}
           {%- if entry.html %}
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          {%- endif %}
+          {%- if entry.url %}
+          <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button">LINK</a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
