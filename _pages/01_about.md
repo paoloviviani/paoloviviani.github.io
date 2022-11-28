@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile_2.jpg
   address: >
     <p>Advanced Computing, Photonics and Electromagnetics group</p>
     <p>LINKS Foundation</p>
