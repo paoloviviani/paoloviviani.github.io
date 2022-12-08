@@ -7,8 +7,8 @@ nav: true
 ---
 [Download PDF](https://paoloviviani.github.io/resume/viviani_cv.pdf)
 
-{% include figure.html path="https://paoloviviani.github.io/resume/viviani_cv_1.png" class="img-fluid rounded z-depth-1" %}
-{% include figure.html path="https://paoloviviani.github.io/resume/viviani_cv_2.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/viviani_cv_1.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/viviani_cv_2.png" class="img-fluid rounded z-depth-1" %}
 <!-- 
 > [**Fancy PDF version here.**](https://paoloviviani.github.io/resume/viviani_cv.pdf)
 
