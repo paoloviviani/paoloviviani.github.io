@@ -38,7 +38,7 @@ MAssive Calculations on Hybrid systems. The goal of the project is to develop a 
 The BoSS project seeks to simplify the creation of legally-compliant, blockchain-secured applications that maintain confidentiality and privacy. To do so, the consortium will develop frameworks for technology selection, supporting middleware, and regulatory compliance.
 Within the BoSS project, Noesis and KU Leuven demonstrated the potential of private blockchains to ensure audibility of data exchange for cross-company multidisciplinary optimization processes in aircraft design.
 
-## [VaProFam](https://www.flandersmake.be/en/research/design-optimisation)
+## [VaProFam](https://researchportal.be/en/project/value-driven-concept-design-mechatronic-product-families)
 **FlandersMake-ICON project (2019 - 2021)**  
 Value driven concept design for product families.
 
