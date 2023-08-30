@@ -6,6 +6,7 @@ nav: true
 order: 5
 ---
 ## Theses
+- Myriam Lubrano, Polytechnic of Torino, Master's thesis in Biomedical Engineering, 2023 -- [Transfer Learning strategies for time robust neural decoding in a Brain-machine interface.](http://webthesis.biblio.polito.it/id/eprint/27909) 
 - Ilaria Gesmundo, Polytechnic of Torino, Master's thesis in Biomedical Engineering, 2023 -- [Real-time classification of neural signal from motor cortex through multiple recording sessions.](http://webthesis.biblio.polito.it/id/eprint/26139)
 - Elios Ghinato, Polytechnic of Torino, Master's thesis in Biomedical Engineering, 2022 -- [Robust classification of a neuromuscular signal for real-time control of a prosthetic hand.](http://webthesis.biblio.polito.it/id/eprint/25770)
 
