@@ -6,6 +6,8 @@ nav: true
 order: 5
 ---
 ## Talks
+- [Demistifying HPC-Quantum integration: it's all about scheduling!](https://hpqci.github.io) -- June 2024 -- Keynote at International Workshop on High Performance and Quantum Computing Integration (HPQCI) @ HDPC2024, Pisa, Italy.
+
 - [Machine Learning for Neuroprosthesics](https://indico.ictp.it/event/10479) -- May 2024 -- Advanced School on Applied Machine Learning, ICTP Trieste
 
 - [Quantum computing lectures](https://didattica.polito.it/zxd/b5eda0a74558a342cf659187f06f746f/9dde3c1deee7c791026d6a0ac91322bb/e460136d06fca2b9e050c0828c3749ca?1658471882485) -- 2023 and 2024 -- Quantum communication and computing 2022-2023 II level Master
