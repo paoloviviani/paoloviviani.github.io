@@ -8,6 +8,9 @@ order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
+## SmartHPCQC
+**ICSC Spoke 1 project - stakeholder role**  
+Development of resource scheduling and allocation strategies to allow integration of current NISQ quantum computers within HPC environments.
 
 ## [B-CRATOS](https://www.b-cratos.eu)
 **H2020-EU - FET Open (2021 - ongoing)**  
