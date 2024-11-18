@@ -19,6 +19,7 @@ order: 5
 - [Quantum Computing: A hype-avoiding introduction](https://alpha.di.unito.it/seminars/) -- June 7th, 2021 -- University of Torino, Parallel Computing Seminars
 
 ## Theses
+- Marco Tasca, Polytechnic of Torino, Master's thesis in Data Science And Engineering, 2024 -- [Time-Robust and Energy-Efficient Decoder for Real-Time Neural Decoding of Primary Motor Cortex Activity.](https://webthesis.biblio.polito.it/33252/)
 - Marta Bono, Polytechnic of Torino, Master's thesis in Biomedical Engineering, 2023 -- [Time robustness of deep learning models for real-time neural decoding of arm movement.](https://webthesis.biblio.polito.it/28927/)
 - Myriam Lubrano, Polytechnic of Torino, Master's thesis in Biomedical Engineering, 2023 -- [Transfer Learning strategies for time robust neural decoding in a Brain-machine interface.](http://webthesis.biblio.polito.it/id/eprint/27909) 
 - Ilaria Gesmundo, Polytechnic of Torino, Master's thesis in Biomedical Engineering, 2023 -- [Real-time classification of neural signal from motor cortex through multiple recording sessions.](http://webthesis.biblio.polito.it/id/eprint/26139)
