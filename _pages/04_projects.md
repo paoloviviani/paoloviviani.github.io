@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 ## SmartHPCQC
-**ICSC Spoke 1 project - stakeholder role**  
+**ICSC Spoke 1 project**  
 Development of resource scheduling and allocation strategies to allow integration of current NISQ quantum computers within HPC environments.
 
 ## [B-CRATOS](https://www.b-cratos.eu)
