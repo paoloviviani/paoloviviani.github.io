@@ -5,7 +5,7 @@ title: resume
 order: 2
 nav: true
 ---
-[Download PDF](https://paoloviviani.github.io/resume/viviani_cv.pdf)
+[Download PDF](https://codeberg.org/pviviani/resume/raw/branch/master/viviani_cv.pdf)
 
 {% include figure.html path="assets/img/viviani_cv_1.png" class="img-fluid rounded z-depth-1" %}
 {% include figure.html path="assets/img/viviani_cv_2.png" class="img-fluid rounded z-depth-1" %}
