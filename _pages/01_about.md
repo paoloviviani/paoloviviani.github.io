@@ -19,6 +19,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 Theoretical physicist turned computer scientist. Currently Senior Researcher at [LINKS Foundation](https://linksfoundation.com/en/).
 
-I'm interested in using supercomputers to solve scientific and engineering problems, like developing and training machine learning models at scale; to achieve this goal I've been often dealing with large-scale HPC machines (including few Top500 and a couple of top 10 machines). I'm also interested in developing algorithms to exploit the potential of near-term quantum computers, and to investigate their interactions with classical HPC.
+I'm interested in using supercomputers to solve challenging scientific and engineering problems, like developing and training machine learning models at scale; to achieve this goal I've been often dealing with large-scale HPC machines (including few Top500 and a couple of top 10 machines). I'm also interested in developing algorithms to exploit the potential of near-term quantum computers, and to investigate their interactions with classical HPC.
 
 Also, I'm an avid photographer.
