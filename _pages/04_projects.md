@@ -8,7 +8,7 @@ order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
-## CLEAR-EO
+## [CLEAR-EO](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/43108390/101182722)
 **Horizon Europe  (2025 - ongoing)**  
 CLEAR-EO leverages on newly available satellite data like Meteosat Third Generation (MTG) and EUMETSAT Polar System Second Generation (EPS SG), along with European Cloud infrastructures like the European Weather Cloud, to develop an analysis and geo-spatial notification system on top of a federated data space. These core components will support the development of innovative applications and services such as on-demand decision making workflows for 1) flash floods in urban areas, 2) short and long-term Climate Change impacts adaptation in agriculture, and 3) accurate air quality forecasts, with the final goal to contribute and enhance the Copernicus and the EO/weather services ecosystem.
 CLEAR-EO teams up a multidisciplinary partnership from Research Organizations, weather forecasting centres, EO data and tech/cloud platform specialists to Group of Earth Observation (GEO)/Destination Earth (DestinE) contributors and SMEs to develop, demonstrate, and promote to relevant stakeholders and end-users new application developments and early exploitation of the new weather satellite data to support SDGs and the European Green Deal.
