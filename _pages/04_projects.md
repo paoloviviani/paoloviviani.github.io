@@ -33,11 +33,11 @@ LEXIS (Large-scale EXecution for Industry & Society) project will build an advan
 **H2020-FoF project (2016 - 2018)**  
 FF2 is a collaborative project that will enable European SMEs to be more competitive globally through the use of simulation services running on a High Performance Computing cloud infrastructure.
 
-## [CloudFlow](http://www.eu-cloudflow.eu/)
+## [CloudFlow](https://cordis.europa.eu/project/id/609100)
 **FP7-I4MS project (2016 - 2017)**  
 Cloudflow will enable the remote use of computational services distributed on the cloud, seamlessly integrating these within established engineering design workflows and standards.
 
-## [MACH](https://itea3.org/project/mach.html)
+## [MACH](https://itea4.org/project/mach.html)
 **ITEA2 project (2015 - 2016)**  
 MAssive Calculations on Hybrid systems. The goal of the project is to develop a DSeL and a computation framework that allows to access hybrid hardware acceleration without specific expertise.
 
