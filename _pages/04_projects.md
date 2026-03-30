@@ -8,10 +8,16 @@ order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
-## [CLEAR-EO](https://cordis.europa.eu/project/id/101182722)
+## [CLEAR-EO](https://doi.org/10.3030/101182722)
 **Horizon Europe  (2025 - ongoing)**  
 CLEAR-EO leverages on newly available satellite data like Meteosat Third Generation (MTG) and EUMETSAT Polar System Second Generation (EPS SG), along with European Cloud infrastructures like the European Weather Cloud, to develop an analysis and geo-spatial notification system on top of a federated data space. These core components will support the development of innovative applications and services such as on-demand decision making workflows for 1) flash floods in urban areas, 2) short and long-term Climate Change impacts adaptation in agriculture, and 3) accurate air quality forecasts, with the final goal to contribute and enhance the Copernicus and the EO/weather services ecosystem.
 CLEAR-EO teams up a multidisciplinary partnership from Research Organizations, weather forecasting centres, EO data and tech/cloud platform specialists to Group of Earth Observation (GEO)/Destination Earth (DestinE) contributors and SMEs to develop, demonstrate, and promote to relevant stakeholders and end-users new application developments and early exploitation of the new weather satellite data to support SDGs and the European Green Deal.
+
+## [QEC4QEA](https://doi.org/10.3030/101194322)
+**EuroHPC  (2026 - ongoing)**  
+Quantum computing has the potential to revolutionize science and technology, offering breakthroughs in optimization, cryptography, machine learning, materials science, and drug discovery. However, challenges including the lack of standardized tools, specialized training, infrastructure access, and limited industrial collaboration hinder its impactful progress or adoption. The QEC4QEA project seeks to overcome these obstacles by building a unified platform to accelerate the development and integration of quantum-enhanced applications across various scientific and industrial fields.
+QEC4QEA will provide a suite of resources, including a hardware-agnostic application library, benchmarking tools, compilers, APIs, and curated access to high-performance computing and quantum computing infrastructures. The project will refine its capabilities through agile development while promoting cross-disciplinary collaboration. A training program and help desk will support scientists and developers, enabling them to build and integrate quantum-enhanced solutions.
+By focusing on applications such as complex multi-objective optimization, advanced cryptography, quantum-enhanced machine learning, accelerated materials discovery, financial crash prediction, image analysis, graph classification and routing, QEC4QEA aims to demonstrate quantum computing's practical potential. Leveraging the collective expertise of its consortium and engaging industries like finance, pharmaceuticals, and supply chain management, QEC4QEA will deliver impactful solutions for real-world needs.
 
 ## SmartHPCQC
 **ICSC Spoke 1 project**  
