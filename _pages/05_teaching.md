@@ -6,10 +6,8 @@ nav: true
 order: 5
 ---
 ## Talks
-### Upcoming
 - [Salon talk - Creating a European Network for Quantum Computing Software](https://qci.dlr.de/afqc2026/) together with [Robert Wille](https://www.cda.cit.tum.de/team/wille/) @ AFQC 2026, 27th May 2026, Düsseldorf, Germany
 
-### Past
 - [Demistifying HPC-Quantum integration: it's all about scheduling!](https://hpqci.github.io) -- June 2024 -- Keynote at International Workshop on High Performance and Quantum Computing Integration (HPQCI) @ HDPC2024, Pisa, Italy.
 
 - [Machine Learning for Neuroprosthesics](https://indico.ictp.it/event/10479) -- May 2024 -- Advanced School on Applied Machine Learning, ICTP Trieste
@@ -23,6 +21,7 @@ order: 5
 - [Quantum Computing: A hype-avoiding introduction](https://alpha.di.unito.it/seminars/) -- June 7th, 2021 -- University of Torino, Parallel Computing Seminars
 
 ## Theses
+- Pio Antonio Campana, Polytechnic of Torino, Master of science program in Quantum Engineering, 2026 -- [Compilation Strategies for Neutral Atom Quantum Architectures: A Comparative Evaluation.](https://webthesis.biblio.polito.it/39655/)
 - Marco Tasca, Polytechnic of Torino, Master's thesis in Data Science And Engineering, 2024 -- [Time-Robust and Energy-Efficient Decoder for Real-Time Neural Decoding of Primary Motor Cortex Activity.](https://webthesis.biblio.polito.it/33252/)
 - Marta Bono, Polytechnic of Torino, Master's thesis in Biomedical Engineering, 2023 -- [Time robustness of deep learning models for real-time neural decoding of arm movement.](https://webthesis.biblio.polito.it/28927/)
 - Myriam Lubrano, Polytechnic of Torino, Master's thesis in Biomedical Engineering, 2023 -- [Transfer Learning strategies for time robust neural decoding in a Brain-machine interface.](http://webthesis.biblio.polito.it/id/eprint/27909) 
