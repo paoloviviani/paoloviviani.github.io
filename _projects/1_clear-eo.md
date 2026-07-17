@@ -11,4 +11,4 @@ CLEAR-EO leverages newly available satellite data like Meteosat Third Generation
 
 CLEAR-EO teams up a multidisciplinary partnership from research organizations, weather-forecasting centres, EO data and tech/cloud platform specialists, Group of Earth Observation (GEO) / Destination Earth (DestinE) contributors and SMEs to develop, demonstrate, and promote to relevant stakeholders and end-users new application developments and early exploitation of the new weather satellite data to support the SDGs and the European Green Deal.
 
-[Visit the project on CORDIS](https://cordis.europa.eu/project/id/101182722)
+[Visit the project on CORDIS](https://doi.org/10.3030/101182722)

@@ -18,9 +18,9 @@ cv:
 
   sections:
     Main interests:
-      - "High-Performance Computing"
-      - "Quantum–HPC integration"
-      - "Machine Learning at scale"
+      - bullet: "High-Performance Computing"
+      - bullet: "Quantum–HPC integration"
+      - bullet: "Machine Learning at scale"
 
     Education:
       - institution: University of Torino
@@ -72,13 +72,13 @@ cv:
           - "Technical contact for funded research projects."
 
     Funded research projects:
-      - "CLEAR-EO — Horizon Europe (2025 – ongoing)"
-      - "QEC4QEA — EuroHPC JU (2025 – ongoing)"
-      - "B-CRATOS — H2020-FET Open (2021 – 2025)"
-      - "ACROSS — H2020-EuroHPC (2021 – 2024)"
-      - "LEXIS — H2020-ICT-11 (2021 – 2022)"
-      - "Fortissimo 2 — H2020-FoF (2016 – 2018)"
-      - "MACH — ITEA2 (2015 – 2016)"
+      - bullet: "CLEAR-EO — Horizon Europe (2025 – ongoing)"
+      - bullet: "QEC4QEA — EuroHPC (2026 – ongoing)"
+      - bullet: "B-CRATOS — H2020-FET Open (2021 – 2025)"
+      - bullet: "ACROSS — H2020-EuroHPC (2021 – 2024)"
+      - bullet: "LEXIS — H2020-ICT-11 (2021 – 2022)"
+      - bullet: "Fortissimo 2 — H2020-FoF (2016 – 2018)"
+      - bullet: "MACH — ITEA2 (2015 – 2016)"
 
     Skills:
       - name: Parallel & GPU computing
@@ -101,14 +101,15 @@ cv:
         summary: "Basic"
 
     Academic activity:
-      - "Teaching for the Master in Quantum Computing and Communication (Politecnico di Torino)."
-      - "Co-supervisor of 6 M.Sc. theses."
-      - "Program Committee member, Euromicro International Conference on Parallel, Distributed, and Network-based Processing (PDP) — 2018 (session chair), 2019, 2020."
-      - "Program Committee member, Artifact Evaluation, Euro-Par 2018."
-      - "Program Committee member, 16th IEEE International Conference on Scalable Computing and Communications (ScalCom 2016)."
+      - bullet: "Selected publications and the full list are on the [publications](/publications/) page."
+      - bullet: "Teaching for the Master in Quantum Computing and Communication (Politecnico di Torino)."
+      - bullet: "Co-supervisor of 6 M.Sc. theses."
+      - bullet: "Program Committee member, Euromicro International Conference on Parallel, Distributed, and Network-based Processing (PDP) for 2018 (also session chair), 2019 and 2020."
+      - bullet: "Program Committee member, Artifact Evaluation, Euro-Par 2018."
+      - bullet: "Program Committee member, 16th IEEE International Conference on Scalable Computing and Communications (ScalCom 2016)."
 
-    Interests:
-      - name: Photography
-        summary: "Avid traveller and photographer (see the portfolio page)."
-      - name: Sport
-        summary: "Former javelin thrower — regional and national competitions (1997–2012); PADI Advanced Open Water diver."
+    Free time:
+      - bullet: "Avid traveller and photographer. Expedition photographer for the OASIS archaeological project (Kharga, Egypt, 2013 — funded by Fondazione Collegio delle Università Milanesi and the American University in Cairo) and for Collegio Universitario \"R. Einaudi\" (Torino, 2012–2014)."
+      - bullet: "Former track & field athlete — javelin throw, regional and national competitions (1997–2012); now turned to fatherhood."
+      - bullet: "PADI Advanced Open Water Diver (since 2004)."
+      - bullet: "Exchange student at Tauranga Boys' College, New Zealand (2006); volunteer at the IAAF Athletics World Championship (Berlin, 2009)."

@@ -9,6 +9,8 @@ nav_order: 5
 
 ## Talks
 
+- [Salon talk – Creating a European Network for Quantum Computing Software](https://qci.dlr.de/afqc2026/) -- together with [Robert Wille](https://www.cda.cit.tum.de/team/wille/) @ AFQC 2026, 27th May 2026, Düsseldorf, Germany.
+
 - [Demistifying HPC-Quantum integration: it's all about scheduling!](https://hpqci.github.io) -- June 2024 -- Keynote at International Workshop on High Performance and Quantum Computing Integration (HPQCI) @ HPDC 2024, Pisa, Italy.
 
 - [Machine Learning for Neuroprosthesics](https://indico.ictp.it/event/10479) -- May 2024 -- Advanced School on Applied Machine Learning, ICTP Trieste.
@@ -23,6 +25,7 @@ nav_order: 5
 
 ## Theses
 
+- Pio Antonio Campana, Politecnico di Torino, Master of Science in Quantum Engineering, 2026 -- [Compilation Strategies for Neutral Atom Quantum Architectures: A Comparative Evaluation.](https://webthesis.biblio.polito.it/39655/)
 - Marco Tasca, Politecnico di Torino, Master's thesis in Data Science and Engineering, 2024 -- [Time-Robust and Energy-Efficient Decoder for Real-Time Neural Decoding of Primary Motor Cortex Activity.](https://webthesis.biblio.polito.it/33252/)
 - Marta Bono, Politecnico di Torino, Master's thesis in Biomedical Engineering, 2023 -- [Time robustness of deep learning models for real-time neural decoding of arm movement.](https://webthesis.biblio.polito.it/28927/)
 - Myriam Lubrano, Politecnico di Torino, Master's thesis in Biomedical Engineering, 2023 -- [Transfer Learning strategies for time robust neural decoding in a Brain-machine interface.](http://webthesis.biblio.polito.it/id/eprint/27909)

@@ -9,4 +9,4 @@ category: work
 
 CloudFlow enables the remote use of computational services distributed on the cloud, seamlessly integrating these within established engineering design workflows and standards.
 
-[Visit the project website](http://www.eu-cloudflow.eu/)
+[Visit the project on CORDIS](https://cordis.europa.eu/project/id/609100)
