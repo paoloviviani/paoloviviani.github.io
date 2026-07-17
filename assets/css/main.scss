@@ -1,15 +1,36 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
+# Local override of al_folio_core's assets/css/main.scss.
+# Only change vs. the gem: the light-mode accent ($purple-color) is set to a light blue.
+# After al-folio gem updates, reconcile with:
+#   bundle exec al-folio upgrade overrides diff assets/css/main.scss
 ---
 @charset "utf-8";
 
-// Dimensions
-$max-content-width: {{ site.max_width }};
+/* Built-in Sass modules you’ll likely use across partials */
+@use "sass:math";
+@use "sass:string";
 
-@import
-  "variables",
-  "themes",
-  "layout",
-  "base",
-  "distill"
-;
+/* Configure design tokens BEFORE loading any partials.
+   $purple-color is the light-mode accent (was #b509ac magenta); now a light blue. */
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default: "930px" }},
+  $purple-color: #0086c3
+);
+
+/* Theme partials (resolved from the al_folio_core gem's _sass). */
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";

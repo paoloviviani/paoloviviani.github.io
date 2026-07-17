@@ -1,0 +1,114 @@
+cv:
+  name: Paolo Viviani
+  label: PhD — Senior Researcher
+  email: paolo.viviani@ik.me
+  location: Torino, Italy
+  image: ""
+  summary: >
+    Theoretical physicist turned computer scientist. Senior Researcher at LINKS Foundation,
+    working on High-Performance Computing, Quantum–HPC integration and Machine Learning at scale.
+
+  social_networks:
+    - network: GitHub
+      username: paoloviviani
+    - network: LinkedIn
+      username: paoloviviani
+    - network: ORCID
+      username: 0000-0001-8947-9481
+
+  sections:
+    Main interests:
+      - "High-Performance Computing"
+      - "Quantum–HPC integration"
+      - "Machine Learning at scale"
+
+    Education:
+      - institution: University of Torino
+        location: Torino, Italy
+        url: https://www.unito.it/
+        area: Computer Science
+        studyType: PhD
+        start_date: 2015
+        end_date: 2019
+        highlights:
+          - "Thesis: *Deep Learning at Scale with Nearest Neighbours Communications*."
+          - "Supervisor: Marco Aldinucci. Funded by Noesis Solutions."
+
+      - institution: University of Torino
+        location: Torino, Italy
+        url: https://www.unito.it/
+        area: Theoretical Physics
+        studyType: MSc
+        start_date: 2015
+        end_date: 2015
+        score: "104/110"
+        highlights:
+          - "Member of Collegio Universitario \"R. Einaudi\", Torino."
+          - "Scholarship winner: \"Piano Lauree Scientifiche 2008\", granted by Società Italiana di Fisica."
+
+    Experience:
+      - company: LINKS Foundation
+        position: Senior Researcher, Advanced Computing
+        location: Torino, Italy
+        url: https://linksfoundation.com/en/
+        start_date: 2021
+        end_date: present
+        highlights:
+          - "Funded research projects — co-coordinator of the CLEAR-EO Horizon Europe project; proposal writing, management and execution."
+          - "HPC, Machine Learning and Big Data convergence — acceleration of scientific/technical applications."
+          - "Quantum algorithms and applications — discrete optimization on neutral-atom machines and quantum annealers."
+          - "Set up and maintained internal computational infrastructure and source-code-management services, scaling from group to institute-wide adoption."
+
+      - company: Noesis Solutions
+        position: Research Engineer
+        location: Novara, Italy
+        url: https://www.noesissolutions.com
+        start_date: 2015
+        end_date: 2021
+        highlights:
+          - "Machine learning methodologies for engineering."
+          - "Design and development of numerical code and software stack."
+          - "Redesigned internal source-code-management workflow."
+          - "Technical contact for funded research projects."
+
+    Funded research projects:
+      - "CLEAR-EO — Horizon Europe (2025 – ongoing)"
+      - "QEC4QEA — EuroHPC JU (2025 – ongoing)"
+      - "B-CRATOS — H2020-FET Open (2021 – 2025)"
+      - "ACROSS — H2020-EuroHPC (2021 – 2024)"
+      - "LEXIS — H2020-ICT-11 (2021 – 2022)"
+      - "Fortissimo 2 — H2020-FoF (2016 – 2018)"
+      - "MACH — ITEA2 (2015 – 2016)"
+
+    Skills:
+      - name: Parallel & GPU computing
+        keywords: "MPI/OpenMP, CUDA, C++, Fortran"
+      - name: HPC & Cloud infrastructure
+        keywords: "SLURM, Docker, OpenStack, Juju, GitLab CI/CD, Linux, BLAS/LAPACK, IP networking"
+      - name: Machine Learning
+        keywords: "Python, Keras, PyTorch, Dask"
+      - name: Quantum computing
+        keywords: "Qiskit, neutral-atom optimization, quantum annealing"
+      - name: Research project management
+        keywords: "Proposal writing, technical management, requirements formalization, LaTeX"
+
+    Languages:
+      - name: Italian
+        summary: "Native speaker"
+      - name: English
+        summary: "Fluent (C1 — General English Super Intensive, Alpha College of English, Dublin, 2012)"
+      - name: French
+        summary: "Basic"
+
+    Academic activity:
+      - "Teaching for the Master in Quantum Computing and Communication (Politecnico di Torino)."
+      - "Co-supervisor of 6 M.Sc. theses."
+      - "Program Committee member, Euromicro International Conference on Parallel, Distributed, and Network-based Processing (PDP) — 2018 (session chair), 2019, 2020."
+      - "Program Committee member, Artifact Evaluation, Euro-Par 2018."
+      - "Program Committee member, 16th IEEE International Conference on Scalable Computing and Communications (ScalCom 2016)."
+
+    Interests:
+      - name: Photography
+        summary: "Avid traveller and photographer (see the portfolio page)."
+      - name: Sport
+        summary: "Former javelin thrower — regional and national competitions (1997–2012); PADI Advanced Open Water diver."

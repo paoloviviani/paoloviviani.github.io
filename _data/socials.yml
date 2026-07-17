@@ -1,0 +1,11 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: paolo.viviani@ik.me # your email address
+github_username: paoloviviani # your GitHub username
+linkedin_username: paoloviviani # your LinkedIn username
+scholar_userid: utq5LYAAAAAJ # your Google Scholar ID
+orcid_id: 0000-0001-8947-9481 # your ORCID ID
+dblp_url: https://dblp.org/pid/55/10024-1 # your DBLP url
+cv_pdf: https://codeberg.org/pviviani/resume/raw/branch/master/viviani_cv.pdf # path or URL to your CV PDF file
+# rss_icon intentionally omitted — the RSS social icon is hidden (the icon renders whenever this key is present)
