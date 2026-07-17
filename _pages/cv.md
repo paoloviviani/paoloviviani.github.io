@@ -13,9 +13,6 @@ Theoretical physicist turned computer scientist. Senior Researcher at LINKS Foun
 working on High-Performance Computing, Quantum–HPC integration and Machine Learning at scale.
 
 [📄 Download PDF](https://codeberg.org/pviviani/resume/raw/branch/master/viviani_cv.pdf){:target="\_blank" rel="noopener noreferrer"} &nbsp;·&nbsp;
-[GitHub](https://github.com/paoloviviani) ·
-[LinkedIn](https://www.linkedin.com/in/paoloviviani) ·
-[ORCID](https://orcid.org/0000-0001-8947-9481)
 
 ## Main interests
 
@@ -53,13 +50,8 @@ working on High-Performance Computing, Quantum–HPC integration and Machine Lea
 
 ## Funded research projects
 
-- CLEAR-EO — Horizon Europe (2025 – ongoing)
-- QEC4QEA — EuroHPC (2026 – ongoing)
-- B-CRATOS — H2020-FET Open (2021 – 2025)
-- ACROSS — H2020-EuroHPC (2021 – 2024)
-- LEXIS — H2020-ICT-11 (2021 – 2022)
-- Fortissimo 2 — H2020-FoF (2016 – 2018)
-- MACH — ITEA2 (2015 – 2016)
+[Research projects](/projects/)
+
 
 ## Skills
 
@@ -77,7 +69,8 @@ working on High-Performance Computing, Quantum–HPC integration and Machine Lea
 
 ## Academic activity
 
-- Selected publications and the full list are on the [publications](/publications/) page.
+[Publications](/publications/)
+
 - Teaching for the Master in Quantum Computing and Communication (Politecnico di Torino).
 - Co-supervisor of 6 M.Sc. theses.
 - Program Committee member, Euromicro International Conference on Parallel, Distributed, and Network-based Processing (PDP) for 2018 (also session chair), 2019 and 2020.
